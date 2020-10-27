@@ -10,4 +10,4 @@ A CodeIgniter 3 App, that enables user to create and manage projects and its rel
 git clone https://github.com/gdkimaiyo/ci3_app.git
 ```
 
-- **`cd`** into the project files and ```do your thing. You will database sql file```. It is the db which you will import in phpmyadmin
+- **`cd`** into the project files and ```do your thing. You will find database sql file```. It is the db which you will import in phpmyadmin
