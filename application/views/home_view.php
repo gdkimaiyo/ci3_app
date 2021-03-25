@@ -42,7 +42,7 @@
     </div> -->
   <?php else: ?>
     <div class="jumbotron text-center" style="background-color: #ffffff;">
-      <h2 class="display-4">Welcome to CI App</h2>
+      <h2 class="display-4">Welcome to TaskManager</h2>
       <hr class="my-4">
       <blockquote class="blockquote mb-0">
         <footer class="blockquote-footer">
